@@ -2,7 +2,7 @@ use rand;
 use std::fs::File;
 use std::io::Write;
 
-const MIN_RUNS: u64 = 1_000;
+const MIN_RUNS: u64 = 1000;
 const ALPHA: f32 = 0.45;
 const BETA: f32 = 0.5;
 
